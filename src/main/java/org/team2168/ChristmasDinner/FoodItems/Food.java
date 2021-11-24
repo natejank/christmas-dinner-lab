@@ -1,4 +1,4 @@
-package org.team2168.ThanksgivingDinner.FoodItems;
+package org.team2168.ChristmasDinner.FoodItems;
 
 public class Food {
     /* member variables

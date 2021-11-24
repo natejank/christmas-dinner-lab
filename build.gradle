@@ -10,7 +10,7 @@ apply plugin: 'application'
 
 sourceCompatibility = 11
 targetCompatibility = 11
-mainClassName = 'org.team2168.ThanksgivingDinner.Dinner'
+mainClassName = 'org.team2168.ChristmasDinner.Dinner'
 
 sourceSets {
     main {

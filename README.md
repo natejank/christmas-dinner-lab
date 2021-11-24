@@ -1,6 +1,6 @@
-## Today's lab: Thanksgiving Simulator
+## Today's lab: Christmas Dinner Simulator
 
-In order to utilize all of the skills we've gained, we will be simulating a thanksgiving dinner using java.  There are a few parts to keep in mind when creating this.
+In order to utilize all of the skills we've gained, we will be simulating a Christmas dinner using java.  There are a few parts to keep in mind when creating this.
 
 ### Food classes
 
@@ -16,18 +16,18 @@ this is the base class for all food items.  It should have a few attributes
 Think about scope when creating each of these.  Should you really be able to change some of these attributes after creating an instance?
 
 
-##### Turkey
+##### Ham
 
 this is a child of food.  It should have all of the same attributes as food, but it should make some changes as well.
  - add a member variable for whether or not the food is hot
- - change the way tastiness is done.  No one likes cold turkey, so the tastiness should reflect that if the food is cold.
+ - change the way tastiness is done.  No one likes cold ham, so the tastiness should reflect that if the food is cold.
     - (hint:  you need to override one of the setters to accomplish this)
  - add multiple constructors to this one.  Have a basic one, and one where you set the tastiness and heat; some pieces are better than others.
 
 
 ##### get creative
 
-Feel free to add objects for whatever food items you want!  Thanksgiving doesn't just have turkey in it.
+Feel free to add objects for whatever food items you want!  Thanksgiving doesn't just have ham in it.
 
 
 ### Gathering Attendee

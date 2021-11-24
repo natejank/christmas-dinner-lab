@@ -1,4 +1,4 @@
-package org.team2168.ThanksgivingDinner;
+package org.team2168.ChristmasDinner;
 
 import org.team2168.LibLessons.Person;
 
